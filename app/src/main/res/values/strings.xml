@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meu Primeiro Projeto</string>
+    <string name="enviar">Enviar</string>
+    <string name="digite_seu_texto">Digite seu texto</string>
+    <string name="default_text">Texto padrão</string>
+    <string name="digite">Digite</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+</resources>
